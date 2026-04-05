@@ -1,0 +1,356 @@
+.custom-bg {
+    background-color: #F7F2EA !important;
+}
+
+.custom-h1 {
+    color: #243c7b !important;
+    font-size: 60px !important;
+    font-weight: 500 !important;
+    margin-bottom: 20px !important;
+}
+
+.custom-p {
+    color: #242424;
+    font-size: 18px;
+    margin-right: 121px;
+}
+
+.why-join-title {
+    color: #243C7B;
+    font-size: 56px;
+    font-weight: 500;
+}
+
+.why-join-subtitle {
+    color: #666666;
+    font-size: 16px;
+    margin-bottom: 60px;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.feature-card {
+    background-color: #FFF8EE;
+    border-radius: 12px;
+    padding: 16px 20px;
+    height: 100%;
+    border: none;
+}
+
+.icon-wrapper {
+    color: #8B3A4F;
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+.feature-card .card-title {
+    color: #1A1A1A;
+    font-size: 16px;
+}
+
+.feature-card .card-desc {
+    color: #585858;
+    font-size: 14px;
+}
+
+.section-title {
+    color: #243C7B;
+    font-weight: 500;
+    font-size: 60px;
+}
+
+.info-card {
+    background: #ffffff;
+    border-radius: 20px;
+    padding: 34px 28px;
+    display: flex;
+    align-items: flex-start;
+    height: 100%;
+    border: none;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.03);
+}
+
+.icon-box {
+    width: 50px;
+    height: 50px;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+    margin-right: 20px;
+    flex-shrink: 0;
+}
+
+.icon-blue {
+    background-color: #EFF6FF;
+    color: #243C7B;
+}
+
+.title-text {
+    font-size: 16px;
+    font-weight: 600;
+    color: #1A1A1A;
+    margin-bottom: 8px;
+}
+
+.sub-text {
+    font-size: 14px;
+    color: #6D6D6D;
+    margin: 0;
+}
+
+.main-card {
+    background-image: url('./image/de36263361cde131f44d2e2715e0a94843de222a.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 40px;
+    box-shadow: 0 20px 50px rgba(0, 0, 0, 0.03);
+    position: relative;
+    overflow: hidden;
+}
+
+.badge-box {
+    display: inline-flex;
+    align-items: center;
+    background: #F7F9FF;
+    border: 1px solid #D0DDFF;
+    padding: 8px 16px;
+    border-radius: 12px;
+    margin-bottom: 25px;
+    color: #243C7B;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.badge-box i {
+    color: #8fa3d8;
+    margin-right: 8px;
+}
+
+.main-title {
+    color: #2c3e8c;
+    font-size: 48px;
+    margin-bottom: 12px;
+}
+
+.card-description {
+    color: #4A5565;
+    font-size: 18px;
+    max-width: 500px;
+    margin-bottom: 24px;
+}
+
+.info-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px 35px;
+    margin-bottom: 45px;
+    max-width: 650px;
+}
+
+.info-item {
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+    padding: 8px 16px;
+    border-radius: 16px;
+    color: #0A0A0A;
+    background-color: #FFFFFF;
+}
+
+.info-item i {
+    color: #2c3e8c !important;
+    margin-right: 10px;
+    font-size: 1rem;
+    width: 20px;
+    text-align: center;
+}
+
+.btn-group-custom {
+    display: flex;
+    gap: 15px;
+}
+
+.btn-primary-custom {
+    background-color: #2c3e8c;
+    color: #ffffff !important;
+    padding: 12px 30px;
+    border-radius: 50px;
+    text-decoration: none;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.btn-outline-custom {
+    background-color: transparent;
+    color: #2c3e8c !important;
+    border: 1.5px solid #2c3e8c;
+    padding: 12px 30px;
+    border-radius: 50px;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.accordion-number{
+    width: 48px;
+    height: 48px;
+    background-color: #EEF3FF;
+    border-radius: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #243C7B;
+    font-size: 16px;
+    font-weight: bold;
+    margin-right: 16px;
+}
+
+.accordion-button{
+    font-size: 18px;
+    font-weight: 600;
+    color: #1D293D !important;
+}
+
+.detail-section{
+    background-color: #243C7B;
+    padding: 120px 108px;
+}
+
+
+.detail-title{
+    font-size: 60px;
+    font-weight: 500;
+    color: #fff;
+    margin-bottom: 24px;
+}
+
+.detail-subtitle{
+    font-size: 16px;
+    color: #FBFBFB;
+    margin-bottom: 56px;
+}
+.detail-boxes {
+    position: relative;
+   
+    margin: 50px auto;
+    padding: 20px 0;
+    color: white;
+}
+
+/* Mərkəzdəki ağ xətt */
+.timeline-line {
+    position: absolute;
+    left: 50%;
+    top: 0;
+    bottom: 0;
+    width: 1px;
+    background-color: rgba(255, 255, 255, 0.3);
+    transform: translateX(-50%);
+}
+
+.detail-box {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 40px;
+    position: relative;
+}
+
+
+.first-box {
+    background-color:#334E94;
+    padding: 10px;
+    border-radius: 12px;
+    width: 88%;
+    transition: 0.3s;
+}
+
+.first-box:hover {
+    background-color: rgba(255, 255, 255, 0.15);
+}
+
+.box-header {
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.highlight {
+    font-size: 1.1rem;
+}
+
+.first-box p {
+    margin: 0;
+    font-size: 0.9rem;
+    opacity: 0.8;
+}
+
+
+.circle {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 48px;
+    height: 48px;
+    background-color: white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #1e3a8a;
+    z-index: 2;
+}
+
+
+.detail-box.left {
+    justify-content: flex-start;
+    padding-right: 50%;
+    text-align: left;
+}
+
+.detail-box.right {
+    justify-content: flex-end;
+    padding-left: 50%;
+    text-align: left;
+}
+
+.application-section{
+    background-color: #F1EBE0;
+    padding: 58px 108px;
+}
+
+.application-title{
+    font-size: 60px;
+    font-weight: 500;
+    color: #243C7B;
+    margin-bottom: 24px;
+}
+
+.application-subtitle{
+    font-size: 16px;
+    color: #333333;
+    margin-bottom: 56px;
+}
+
+.application-card--title{
+     color: #1F2937;
+     font-size: 20px;
+     font-weight: 600;
+}
+
+.application-icon{
+    width: 56px;
+    height: 56px;
+    background-color: #F3F6FF;
+    border-radius: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 24px;
+}
